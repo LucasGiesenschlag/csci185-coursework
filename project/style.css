@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&display=swap');
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #ffffffab;
+    font-family: century 'Franklin Gothic Medium', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+nav {
+    color: white;
+    padding: 20px;
+    margin:0;
+
+}
+
+header div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#center-pic {
+    display: flex;
+    justify-content: center;
+    border-radius: 95%;
+}
+
+header {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+}
+
+
+#asheville {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+#funfacts {
+    padding: 50px;
+}
+
+.project-holder {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+#bigger {
+    font-size: 20px;
+}
+
+#aboutasheville {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+
+

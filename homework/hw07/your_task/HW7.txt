@@ -1,0 +1,5 @@
+1. I corrected the lack of a language identifier in the HTML and added alt tags to the images. 
+
+2.  It is not, and I believe it requires the ability to navigate into iframe's embeded with spotify which don't seem to work without mouse input. If it's not this, then I am not sure why I couldn't get it to work with just my keyboard.
+
+3. I would be interested to see if there was a way to automatically make a song from an artist start playing when you search up their name. 
